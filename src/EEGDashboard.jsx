@@ -2,7 +2,7 @@ import { useState, useRef, useCallback } from "react";
 import uploadIcon from './upload-cloud.png';
 import {
   BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer,
-  RadialBarChart, RadialBar, Cell
+  Cell
 } from "recharts";
 
 // ── Palette ───────────────────────────────────────────────────────────────────
